@@ -1,0 +1,25 @@
+{
+  "FL-1001": [
+    {
+      "bookingId": "BK10001",
+      "passengerName": "Avery Brooks",
+      "email": "avery@example.com",
+      "phone": "+1-555-0101",
+      "specialAssistance": "Window seat preference",
+      "seats": ["1A", "1B", "7C"],
+      "createdAt": "2026-03-17T10:00:00.000Z"
+    }
+  ],
+  "FL-1002": [
+    {
+      "bookingId": "BK10002",
+      "passengerName": "Jordan Lee",
+      "email": "jordan@example.com",
+      "phone": "+1-555-0102",
+      "specialAssistance": "",
+      "seats": ["3D", "12A", "12B", "18F"],
+      "createdAt": "2026-03-17T12:15:00.000Z"
+    }
+  ],
+  "FL-1003": []
+}

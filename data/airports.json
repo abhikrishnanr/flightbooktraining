@@ -1,0 +1,8 @@
+[
+  { "code": "JFK", "city": "New York", "name": "John F. Kennedy International" },
+  { "code": "LAX", "city": "Los Angeles", "name": "Los Angeles International" },
+  { "code": "SFO", "city": "San Francisco", "name": "San Francisco International" },
+  { "code": "ORD", "city": "Chicago", "name": "O'Hare International" },
+  { "code": "SEA", "city": "Seattle", "name": "Seattle-Tacoma International" },
+  { "code": "DEN", "city": "Denver", "name": "Denver International" }
+]
